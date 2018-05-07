@@ -5,8 +5,6 @@ date:   2018-05-06 22:45:00 -0600
 categories: music-production
 ---
 
-# Making My Avicii Tribute Mix
-
 This blog post is about the creative workflow I went through to produce my Avicii Tribute Mix
 [here](https://soundcloud.com/vicyap/avicii-tribute-mix). I'll talk about my motivation and inspirations, my approach
 to understand Avicii, the 1+1=3 mashup concept, the workflow, and why.
