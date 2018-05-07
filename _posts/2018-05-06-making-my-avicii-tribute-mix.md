@@ -69,7 +69,7 @@ actually plays it. Sometimes it just works and you get an "Oh! Shit!" moment. Th
 even more than two songs is only limited by your imagination.
 
 I think some of the best mashups really catch the listener off guard. It makes the listener say "What is that?" Or
-[Damn Son! Where'd you find this?](https://www.youtube.com/watch?v=s_x_4UElTDI). A few examples of mashups in mixes
+[Damn Son! Where'd you find this?](https://www.youtube.com/watch?v=s_x_4UElTDI) A few examples of mashups in mixes
 that have caught my attention:
 
 * [Mix Series Vol. 1: Beginnings by HAYDEN JAMES](https://soundcloud.com/haydenjamesartist/mix-series-vol-1-beginnings) @ 37:38, Tchami - Adieu v. Odesza - Say My Name (Hayden James Remix)
