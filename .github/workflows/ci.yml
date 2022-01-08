@@ -30,19 +30,18 @@ jobs:
           publish_dir: ./blog/public
 
   wiki:
-      runs-on: ubuntu-20.04
-      steps:
-        - uses: actions/checkout@v2
-        - uses: actions/setup-python@v2
-          with:
-            python-version: 3.x
-        - run: pip install mkdocs-material 
-        - run: cd wiki && mkdocs build
-
-        -name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./wiki/site
+          python-version: 3.x
+      - run: pip install mkdocs-material
+      - run: cd wiki && mkdocs build
 
+      -name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      if: github.ref == 'refs/heads/main'
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./wiki/site
