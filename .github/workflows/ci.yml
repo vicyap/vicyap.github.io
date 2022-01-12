@@ -18,7 +18,7 @@ jobs:
         run: pip install mkdocs-material
 
       - name: Build
-        run: cd wiki && mkdocs build
+        run: mkdocs build
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
