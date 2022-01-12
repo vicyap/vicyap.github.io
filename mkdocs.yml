@@ -1,3 +1,11 @@
 site_name: Less Complex
 theme:
   name: material
+nav:
+  - Home: 'index.md'
+  # - 'Docker Service on EC2':
+  #   - 'Introduction': 'docker-service-on-ec2/README.md'
+  #   - 'Walkthrough': 'docker-service-on-ec2/walkthrough.md'
+  # - 'Deploying Ray':
+  #   - 'Introduction': 'deploying-ray/README.md'
+  #   - 'Walkthrough': 'deploying-ray/walkthrough.md'
